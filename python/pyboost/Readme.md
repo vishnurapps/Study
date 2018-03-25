@@ -35,3 +35,20 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello Vishnu>>> 
 
 ```
+## 03_struct.cpp
+Structure in C++
+
+Output
+```
+[vishnu@stampede pyboost]$ python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
+[GCC 7.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import my_module
+>>> obj = my_module.Student()
+>>> obj.setName("Vishnu")
+>>> obj.getName()
+'Vishnu'
+>>> 
+
+```
