@@ -35,6 +35,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello Vishnu>>> 
 
 ```
+
 ## 03_struct.cpp
 Structure in C++
 
@@ -52,3 +53,26 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 
 ```
+
+## 04_classes.cpp
+
+Output
+```
+[vishnu@stampede pyboost]$ python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
+[GCC 7.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import my_module
+>>> obj = my_module.Student("Vidhya", 24)
+>>> obj.getName()
+'Vidhya'
+>>> obj.getAge()
+24
+>>> obj.setName("Vishnu")
+>>> obj.setAge(27)
+>>> obj.getName()
+'Vishnu'
+>>> obj.getAge()
+27
+>>>
+``` 
