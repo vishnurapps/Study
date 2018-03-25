@@ -1,4 +1,4 @@
-// 01_function.cpp
+// 03_struct.cpp
 #include <iostream>
 #include <boost/python.hpp>
 
