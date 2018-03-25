@@ -21,3 +21,17 @@ Hello, Python!
 >>> 
 ```
 
+## 02_function.cpp
+Function with argument
+
+Output
+```
+[vishnu@stampede pyboost]$ python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
+[GCC 7.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import my_module
+>>> my_module.sayHello("Vishnu")
+Hello Vishnu>>> 
+
+```
